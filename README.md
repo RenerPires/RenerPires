@@ -2,12 +2,14 @@
 
 ## Olá Mundo! <img src="./assets/hello-hand.svg" style="width:40px; margin-top:-15px"/>, Eu sou Rener Pires
 
+https://komarev.com/ghpvc/?username=RenerPires&color=703e78
+
 ### Sou Estudante, Desenvolvedor, Tester e Criador!
 💻 Você pode achar meus projetos em meu <a href="https://renerpires.com">portfólio</a>
 
 🔧 No momento estou trabalhando em uma ferramenta de automação de testes.
 
-🌱 Atualmente estou aprendendo: Azure DevOps e 
+🌱 Atualmente estou aprendendo: Azure DevOps
 
 👨🏽‍💻 Estou procurando colaborar com projetos open source
 
