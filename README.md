@@ -2,7 +2,7 @@
 
 ## Olá Mundo! <img src="./assets/hello-hand.svg" style="width:40px; margin-top:-15px"/>, Eu sou Rener Pires
 
-https://komarev.com/ghpvc/?username=RenerPires&color=703e78
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RenerPires&color=703e78" alt="Profile views" /> </p>
 
 ### Sou Estudante, Desenvolvedor, Tester e Criador!
 💻 Você pode achar meus projetos em meu <a href="https://renerpires.com">portfólio</a>
