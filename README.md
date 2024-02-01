@@ -8,7 +8,7 @@
 
 <br>
 
-💻 Você pode achar meus projetos em meu <a href="https://renerpires.com">portfólio</a>
+💻 Você pode achar meus projetos em meu <a href="https://renerpires.dev">portfólio</a>
 
 🔧 No momento estou trabalhando em uma ferramenta de automação de testes.
 
