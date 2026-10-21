@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<img src="./assets/portrait.svg" align="right" width="300" alt="Rener Pires, rendered in fine ASCII characters over a darkened photograph." />
+<img src="./assets/portrait.svg" align="right" width="300" alt="Rener Pires, rendered in fine ASCII characters over a darkened photograph, with a light teal fire along the bottom." />
 
 **Software is a craft before it is a product.** I lead engineering teams and design the systems they build. Ten-plus engineers, five-plus years of leading, one obsession: resilient systems and teams that own what they build.
 
@@ -20,18 +20,30 @@ Tech lead and solutions architect at **CFP Energy**, on **Centrii**: OT cybersec
 
 **III. Ownership.** Whoever builds it, owns it: from the first sketch to the 3 a.m. alert.
 
-### 03 · Selected work
+<br clear="right" />
+
+### 03 · Systems, by hand
+
+<p align="center">
+  <img src="./assets/antikythera.svg" width="100%" alt="The lunar gear train of the Antikythera mechanism, exploded in isometric fine line and turning at its true ratios: crank, main wheel, gear pairs, pin and slot, front dial." />
+</p>
+
+The Antikythera mechanism is the oldest analogue computer we know of: a hand crank, a train of bronze gears, and the Moon's motion falls out of honest ratios, 254 orbits in 19 years. It is how I like systems to be built. Every part has a reason to exist, every ratio is written down, and nothing important hides behind magic. When something breaks, you can open the case and follow the gears.
+
+### 04 · Selected work
 
 - **Centrii**, OT cybersecurity for wind, solar and battery sites.
 - **CERC**, the systems that register Brazil's credit instruments.
 - **Vericode**, from trainee to tech lead, building test automation and a quality culture.
 - **[Quicky](https://github.com/RenerPires?tab=repositories&q=quicky)**, no-faff helpers for end-to-end automation.
 
-<br clear="right" />
+### 05 · Off the clock
 
-### 04 · Off the clock
+<p align="center">
+  <img src="./assets/duet.svg" width="100%" alt="A cello and a bass clarinet taken apart in isometric fine line, playing: keys pressing and strings vibrating, beside a score and waveforms drawn in ASCII." />
+</p>
 
-I play the cello, mostly Bach, and keep company with sad philosophers: Spinoza, Nietzsche, Dostoyevsky, Kafka. I am dubbing *The Magnus Archives* into Brazilian Portuguese, and building a quiet editor for notes and maths.
+I play the cello, mostly Bach, and keep company with sad philosophers: Spinoza, Nietzsche, Dostoyevsky, Kafka. Taken apart, the cello and the bass clarinet read like a field guide to leading: the bridge turns the strings' pull into a voice, the sound post holds the shape without ever being seen, and the bell reminds you that the lowest notes need room to ring. The score beside them is *B Flat After Dusk*, a duet I wrote for the two. Elsewhere, I am dubbing *The Magnus Archives* into Brazilian Portuguese and building a quiet editor for notes and maths.
 
 <p align="center">
   <img src="./assets/craft.svg" width="100%" alt="Tools of the trade: what I build with, and how I can help." />
@@ -57,10 +69,10 @@ I play the cello, mostly Bach, and keep company with sad philosophers: Spinoza, 
   <img src="https://img.shields.io/badge/Markdown-0A505C?style=for-the-badge&logo=markdown&logoColor=F8F9FB" alt="Markdown" />
 </p>
 
-### 05 · Elsewhere
+### 07 · Elsewhere
 
 [renerpires.dev](https://renerpires.dev) · [LinkedIn](https://linkedin.com/in/renerpires) · [Medium](https://medium.com/@renerpires) · [Dev.to](https://dev.to/renerpires) · [Instagram](https://www.instagram.com/renerpires.dev/)
 
-<sub>Fig. I is a photograph set in characters. The Prometheus behind the header is original artwork made for renerpires.dev.</sub>
+<sub>Fig. I is a photograph set in characters. The Prometheus behind the header is original artwork made for renerpires.dev, and the fine-line figures are drawn there too.</sub>
 
 <img src="https://komarev.com/ghpvc/?username=RenerPires&style=flat-square&color=0A505C&label=visitors" alt="Profile views" />
