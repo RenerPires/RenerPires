@@ -1,75 +1,66 @@
-<img src="./assets/github-side.svg" alt="" align="right" height="480em" />
-
-<h2>Hello World! <img src="./assets/hello-hand.svg" width=32px; style="margin-top:-15px"/> I'm Rener Pires</h2>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RenerPires&style=flat-square&color=2B0D5C" alt="Profile views" />
+<p align="center">
+  <a href="https://renerpires.dev">
+    <img src="./assets/header.svg" width="100%" alt="Rener Pires. Tech Lead and Solutions Architect. From São Paulo to London." />
+  </a>
 </p>
 
-<br>
+<img src="./assets/portrait.svg" align="right" width="300" alt="Rener Pires, rendered in fine ASCII characters over a darkened photograph." />
 
-💻 You can find my projects on my <a href="https://renerpires.dev">portfolio</a>
+**Software is a craft before it is a product.** I lead engineering teams and design the systems they build. Ten-plus engineers, five-plus years of leading, one obsession: resilient systems and teams that own what they build.
 
-🔧 Currently working on an automated testing tool
+### 01 · Now
 
-🌱 Learning: Azure DevOps
+Tech lead and solutions architect at **CFP Energy**, on **Centrii**: OT cybersecurity for renewable energy, from an API-first core to the AI agents that help analysts act. London, with São Paulo in the heart.
 
-👨🏽‍💻 Open to collaborating on open-source projects
+### 02 · How I lead
 
-💬 Ask me about… anything tech-related (or horror movies!)
+**I. Cleverness over micromanagement.** Hire sharp people, give them context and room, and get out of the way. Control does not scale; clarity does.
 
-⚡ Fun fact: I run a side project translating a horror storytelling podcast (EN → PT-BR)
+**II. Best practices, by default.** Reviews, tests, documentation and observability are how a team moves fast for years, not weeks.
 
----
+**III. Ownership.** Whoever builds it, owns it: from the first sketch to the 3 a.m. alert.
 
-### 🧠 About Me
+### 03 · Selected work
 
-I’m a **Senior Software Engineer** passionate about frontend architecture, API design, and automation tools.
+- **Centrii**, OT cybersecurity for wind, solar and battery sites.
+- **CERC**, the systems that register Brazil's credit instruments.
+- **Vericode**, from trainee to tech lead, building test automation and a quality culture.
+- **[Quicky](https://github.com/RenerPires?tab=repositories&q=quicky)**, no-faff helpers for end-to-end automation.
 
-I love building elegant, reliable user experiences using **React**, **Next.js**, **TypeScript**, and **TailwindCSS** — and I’m equally at home designing scalable systems powered by **Node.js**, **PostgreSQL**, and **Docker**.
+<br clear="right" />
 
-Outside of work, I contribute to developer communities and experiment with creative coding projects combining design, storytelling, and data visualisation.
+### 04 · Off the clock
 
----
+I play the cello, mostly Bach, and keep company with sad philosophers: Spinoza, Nietzsche, Dostoyevsky, Kafka. I am dubbing *The Magnus Archives* into Brazilian Portuguese, and building a quiet editor for notes and maths.
 
-<img src="./assets/skills.svg" alt="" height="" />
-
-<h2>Some of the technologies I work with 👨🏽‍💻</h2>
+<p align="center">
+  <img src="./assets/craft.svg" width="100%" alt="Tools of the trade: what I build with, and how I can help." />
+</p>
 
 <p>
-<img src="https://img.shields.io/badge/TypeScript-2B0D5C?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-2B0D5C?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next-2B0D5C?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-2B0D5C?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-2B0D5C?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-2B0D5C?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-2B0D5C?style=for-the-badge&logo=css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-2B0D5C?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-2B0D5C?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2B0D5C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-2B0D5C?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-2B0D5C?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-2B0D5C?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2B0D5C?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-2B0D5C?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-2B0D5C?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Markdown-2B0D5C?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-0A505C?style=for-the-badge&logo=typescript&logoColor=F8F9FB" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0A505C?style=for-the-badge&logo=javascript&logoColor=F8F9FB" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-0A505C?style=for-the-badge&logo=nextdotjs&logoColor=F8F9FB" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0A505C?style=for-the-badge&logo=react&logoColor=F8F9FB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A505C?style=for-the-badge&logo=tailwind-css&logoColor=F8F9FB" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML-0A505C?style=for-the-badge&logo=html5&logoColor=F8F9FB" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-0A505C?style=for-the-badge&logo=css&logoColor=F8F9FB" alt="CSS" />
+  <img src="https://img.shields.io/badge/Node.js-0A505C?style=for-the-badge&logo=node.js&logoColor=F8F9FB" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-0A505C?style=for-the-badge&logo=express&logoColor=F8F9FB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A505C?style=for-the-badge&logo=postgresql&logoColor=F8F9FB" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0A505C?style=for-the-badge&logo=mongodb&logoColor=F8F9FB" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-0A505C?style=for-the-badge&logo=redis&logoColor=F8F9FB" alt="Redis" />
+  <img src="https://img.shields.io/badge/Jenkins-0A505C?style=for-the-badge&logo=jenkins&logoColor=F8F9FB" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Docker-0A505C?style=for-the-badge&logo=docker&logoColor=F8F9FB" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0A505C?style=for-the-badge&logo=kubernetes&logoColor=F8F9FB" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-0A505C?style=for-the-badge&logo=linux&logoColor=F8F9FB" alt="Linux" />
+  <img src="https://img.shields.io/badge/Markdown-0A505C?style=for-the-badge&logo=markdown&logoColor=F8F9FB" alt="Markdown" />
 </p>
 
----
+### 05 · Elsewhere
 
-### 🤝 Let's Connect
+[renerpires.dev](https://renerpires.dev) · [LinkedIn](https://linkedin.com/in/renerpires) · [Medium](https://medium.com/@renerpires) · [Dev.to](https://dev.to/renerpires) · [Instagram](https://www.instagram.com/renerpires.dev/)
 
-<p align="left">
-<a href="https://linkedin.com/in/renerpires" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rener Pires-2B0D5C?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"/>
-</a>
-<a href="https://www.instagram.com/renerpires.dev/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Rener Pires-2B0D5C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://medium.com/@renerpires" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rener Pires-2B0D5C?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://dev.to/renerpires" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Rener Pires-2B0D5C?style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to"/>
-</a>
+<sub>Fig. I is a photograph set in characters. The Prometheus behind the header is original artwork made for renerpires.dev.</sub>
+
+<img src="https://komarev.com/ghpvc/?username=RenerPires&style=flat-square&color=0A505C&label=visitors" alt="Profile views" />
